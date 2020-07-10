@@ -1,0 +1,27 @@
+
+
+.App-body {
+	background: linear-gradient(to top,  #e6efe9 5%, #db571a 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(2px + 2vmin);
+}
+
+.corps {
+  background-color:#fff;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  position: relative;
+
+}
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
