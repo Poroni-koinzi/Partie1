@@ -1,3 +1,5 @@
+## Le projet est fait en React
+
 ## Pré-requis
 
 Installer le "Node" et "npm"
