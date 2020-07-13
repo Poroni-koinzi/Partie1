@@ -89,7 +89,7 @@ function App() {
               <Col xs="12" sm="8">
                 <div style={{ position: 'relative' }}>
                   <CardMedia style={{ width: 1095, height: 650 }}
-                    image={require('./images/fautueil.jpg')}
+                    image={require('./images/fauteuil.jpg')}
                     title="fauteuil de salon"
                   />
                 </div>
@@ -235,11 +235,11 @@ function App() {
               <Col xs="8" sm="3" style={{ paddingRight: 0, paddingLeft: 0 }} >
                 <Card style={{ maxWidth: 415, marginLeft: 0, marginRight: 0, marginBottom: 0, background: 'white', }} >
                   <CardMedia style={{ width: 415, height: 500 }}
-                    image={require('./images/imprimente.jpg')}
-                    title="imprimente"
+                    image={require('./images/imprimante.jpg')}
+                    title="imprimante"
                   />
                   <Typography style={{ textAlign: 'center', fontWeight: 'bold' }}>
-                    <h2>Imprimente</h2>
+                    <h2>imprimante</h2>
                   </Typography>
                   <Row>
                     <Col></Col>
@@ -265,11 +265,11 @@ function App() {
               <Col xs="8" sm="3" style={{ paddingRight: 0, paddingLeft: 0 }}>
                 <Card style={{ maxWidth: 415, marginLeft: 0, marginRight: 0, marginBottom: 0, background: 'silver', }}>
                   <CardMedia style={{ width: 415, height: 500 }}
-                    image={require('./images/imprimente3d.png')}
-                    title="Imprimente 3D"
+                    image={require('./images/imprimante3d.png')}
+                    title="imprimante 3D"
                   />
                   <Typography style={{ textAlign: 'center', fontWeight: 'bold' }}>
-                    <h2>Imprimente 3D</h2>
+                    <h2>imprimante 3D</h2>
                   </Typography>
                   <Row>
                     <Col></Col>
