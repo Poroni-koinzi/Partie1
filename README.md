@@ -2,7 +2,7 @@
 
 ## Pré-requis
 
-Installer le "Node" et "npm"
+Installer le "Node" et "npm" dest
 
 
 ## Etant en local le projet se lance sur le port 3000
